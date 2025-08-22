@@ -8,7 +8,7 @@ A minimal CLI tool for checking Hypixel SkyBlock profiles using the updated Hypi
 
 2. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install requests 2.31.0
    ```
    Or directly:
    ```bash
